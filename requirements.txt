@@ -1,0 +1,19 @@
+# Core LiveKit dependencies
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-cartesia
+livekit-plugins-google
+livekit-plugins-silero
+livekit
+
+# Web framework and HTTP client
+fastapi
+uvicorn[standard]
+httpx
+
+# Utilities
+python-dotenv
+pydantic
+
+# Additional dependencies for voice processing
+asyncio-mqtt
