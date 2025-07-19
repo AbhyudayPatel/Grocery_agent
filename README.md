@@ -1,4 +1,4 @@
-# 🛒 Grocery Shopping Voice Agent
+# 🛒 Grocery Shopping Voice Agent [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AbhyudayPatel/Grocery_Voice_Agent)
 
 A voice-powered grocery shopping assistant that allows users to manage their shopping cart through natural voice commands. The agent uses LiveKit for real-time voice processing and integrates with a FastAPI backend to maintain cart state.
 
